@@ -17,15 +17,15 @@
 
 
 ## Skills 
--HTML,CSS,SASS 
--Boostrap 
--Wordpress 
+- HTML,CSS,SASS 
+- Boostrap 
+- Wordpress 
 
 
 ## Code Examples 
 ```
 
-///In this code we create array and put their words and display it 
+///In this code we create array and display it 
 
   <!DOCTYPE html>
   <html>
