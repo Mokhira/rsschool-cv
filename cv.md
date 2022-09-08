@@ -23,31 +23,31 @@
 
 
 ## Code Examples 
-...
+```
 
-///In this code we create array and put their words and siplay it 
+///In this code we create array and put their words and display it 
 
-<!DOCTYPE html>
-<html>
-<body>
+  <!DOCTYPE html>
+  <html>
+  <body>
 
-<h2>JavaScript Arrays</h2>
+## JavaScript Arrays
 
-<p id="family"></p>
+ <p id="family"></p>
 
-<script>
-const names = []; /// here is constant array 
-names[0]= "Mokhira";/// here is inside the word
-names[1]= "Mavlon";
-names[2]= "Maxdi";
-document.getElementById("family").innerHTML = names;/// this code displays these all name 
-</script>
+ <script>
+  const names = []; /// here is constant array 
+  names[0]= "Mokhira";/// here is inside the word
+  names[1]= "Mavlon";
+  names[2]= "Maxdi";
+  document.getElementById("family").innerHTML = names;/// this code displays these all name 
+  </script>
 
 </body>
 </html>
 
 
-...
+```
 
 >https://github.com/Mokhira?tab=repositories
 
