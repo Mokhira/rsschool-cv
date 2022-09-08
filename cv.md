@@ -61,9 +61,9 @@
 - Converted Photoshop layouts to web pages using HTML5, CSS3, JavaScript
 
 
-### Furor Progress
-### Front end developer(Intern)
-#### May 2018 – September 2018
+#### Furor Progress
+##### Front end developer(Intern)
+##### May 2018 – September 2018
 - Work in a team and collaborate to create an application
 - Find solutions to develop the application
 
