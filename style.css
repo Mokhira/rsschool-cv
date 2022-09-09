@@ -71,16 +71,7 @@ footer{
 
 }
 
-.footer_ul{
 
-    display: flex;
-    justify-content: space-between;
-   
-
-    list-style: none;
-    border-top: 4px solid #dfe2e5;
-    padding: 40px 0
-}
 
 .rs-logo-container img{
     height: 30px;
@@ -105,9 +96,6 @@ footer{
     }
 
 
-    .footer_ul{
-        flex-direction: column;
-    }
-
+   
 
 }
